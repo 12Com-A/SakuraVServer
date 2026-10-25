@@ -35,6 +35,7 @@ git clone https://github.com/12Com-A/SakuraV.git
 
 
 <img width="452" height="24" alt="image" src="https://github.com/user-attachments/assets/78822803-f7b9-4534-9cfe-111ed5d82b5a" />
+
 - 在SakuraVServer.cpp 修改控制端口（要与服务端保持一致）
 
 ```cpp
