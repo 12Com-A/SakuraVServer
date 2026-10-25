@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SakuraVServer.vcxproj" Id="7a1412fb-ff97-4681-ba92-9ee9fc1c7462" />
+</Solution>
